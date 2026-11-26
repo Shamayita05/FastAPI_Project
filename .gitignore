@@ -1,0 +1,4 @@
+#A .gitignore file tells Git which files and folders to intentionally ignore so they are not tracked or uploaded to your repository. It is a plain text file typically placed in the root directory of a project.
+.venv/
+.env
+__pycache__
