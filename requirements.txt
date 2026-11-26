@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart #OAuth2
+python-jose #OAuth2
+passlib #OAuth2
+bcrypt #OAuth2
+sqlalchemy #SQL Alchemy
+python-dotenv #environment variables
+pytest #api testing
+httpx2 #api testing
+requests #third party api integration
+beautifulsoup4 #web crawling
+slowapi #rate limiting
